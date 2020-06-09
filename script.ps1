@@ -1,6 +1,7 @@
 $MyEmail = "emailaddress@gmail.com"
 $SMTP= "smtp.gmail.com"
 $To = "emailaddress@gmail.com"
+$Subject = "Hey! This is coming from powershell"
 $Body = "This is the body"
 $Creds = (Get-Credential -Credential "$MyEmail")
 
