@@ -1,5 +1,6 @@
 # Emailshellio
 
+Emailshellio is a script that sends users a direct email straight from powershell 
 
 ## Table of Contents
 
